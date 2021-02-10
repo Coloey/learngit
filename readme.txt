@@ -1,32 +1,7 @@
-
-
 Creating a new branch is quick and simple.
 Creating a new branch is quick
-
-
 Git is a distributed version control system.
-Git is free sofeware distributed under the GPL
-
+Git is a free software distributed under GPL.
 Git has a mutable index called stage.
 git tracks changes of files.
 Creating a new branch is quick&simple.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
